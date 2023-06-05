@@ -44,6 +44,7 @@ Step 1: Download and install VirtualBox
 		-The first thing you need to do is download and install VirtualBox. 
 		
 		-You can get it from the VirtualBox website.
+		
 		- https://www.virtualbox.org/
 
 </p>
@@ -54,6 +55,7 @@ Step 1: Download and install VirtualBox
 </p>
 <p>
 Step 2: Download the Windows 11 ISO file
+	
 		- https://www.microsoft.com/en-us/software-download/windows11
 
 </p>
