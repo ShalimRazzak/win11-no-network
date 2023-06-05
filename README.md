@@ -43,7 +43,9 @@ Step 1: Download and install VirtualBox
 	
 		-The first thing you need to do is download and install VirtualBox. 
 		
-		-You can get it from the VirtualBox website. [](virtualbox.org)
+		-You can get it from the VirtualBox website. 
+		
+		### (virtualbox.org)
 </p>
 <br />
 
