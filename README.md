@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/1DzaLJx.jpg"/>
 </p>
 
 <h1>Windows 11 on VirtualBox without an online account</h1>
@@ -35,7 +35,8 @@ or if you need to install Windows 11 on a machine that doesn't have an internet 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/50g1Hcp.png" alt="osTicket logo"/>
+<img src="https://i.imgur.com/wDELCwD.png"/>
+<img src="https://i.imgur.com/S1zAZN8.png"/>
 
 </p>
 <p>
@@ -50,7 +51,7 @@ Step 1: Download and install VirtualBox
 <br />
 
 <p>
-<img src="https://i.imgur.com/NvK35hU.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/UVCDudX.png" />
 </p>
 <p>
 Step 2: Download the Windows 11 ISO file
