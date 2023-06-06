@@ -116,6 +116,8 @@ Step 4: Start the installation of Windows 11
 	
 		-The installation process will begin. Follow the on-screen instructions to complete the installation.
 	
+		-Choose "I don't have a product key.
+	
 		-Choose the windows 11 version you wish to install.
 	
 		-Choose “Custom: Install Windows Only”.
@@ -127,12 +129,12 @@ Step 4: Start the installation of Windows 11
 <img src="https://i.imgur.com/TvjuEF3.png" />
 <img src="https://i.imgur.com/MIr9UIn.png" />
 <img src="https://i.imgur.com/Efb8DKo.png" />
-<img src="https://i.imgur.com/UVCDudX.png" />
+<img src="https://i.imgur.com/kosiSVo.png" />
+<img src="https://i.imgur.com/kosOpQg.png" />
+<img src="https://i.imgur.com/i9quBVr.png" />
+<img src="https://i.imgur.com/qJ1F3cz.png" />
 <br />
 
-<p>
-<img src="https://i.imgur.com/Z3e5wdX.png" height="80%" width="80%" />
-</p>
 <p>
 Step 5: Create a local account
 		- On the “Oops, you've lost internet connection” or “Let's connect you to a network” page, 
@@ -146,13 +148,13 @@ use the “Shift + F10” keyboard shortcut.
 	
 		- Continue with the installation.
 </p>
+<img src="https://i.imgur.com/J0p6ATc.png" />
+<img src="https://i.imgur.com/uGTdsJo.png" />
+<img src="https://i.imgur.com/mDsbbXc.png" />
+<img src="https://i.imgur.com/c9mIVJC.png" />
 <br />
 
 <p>
-<img src="https://i.imgur.com/LmmaKIZ.png" height="80%" width="80%" />
-</p>
-<p>
-
 Step 6: Finish the installation with VirtualBox Guest Additions ISO file
 	
 		- On the bottom menu click on the disc image and choose “Remove disk from virtual drive”.
@@ -164,6 +166,13 @@ Step 6: Finish the installation with VirtualBox Guest Additions ISO file
 		- After the reboot you should be able to go fullscreen.
 	
 		- -Go into Network Settings, in the “Attached to” drop down menu choose “NAT” then click OK.
+<p>
+<img src="https://i.imgur.com/8RmHadM.png" />
+<img src="https://i.imgur.com/91UQsv4.png" />
+<img src="https://i.imgur.com/sYMrgdD.png" />
+<img src="https://i.imgur.com/Hh3W7wA.png" />
+<img src="https://i.imgur.com/q5PHFPb.png" />
+<img src="https://i.imgur.com/1DzaLJx.jpg" />
 
 <h1>That’s it! Congratulations!</h1>
 
