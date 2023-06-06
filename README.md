@@ -123,10 +123,10 @@ Step 4: Start the installation of Windows 11
 		-Choose “New”. Then click “Next”.
 	
 </p>
-<img src="https://i.imgur.com/UVCDudX.png" />
-<img src="https://i.imgur.com/UVCDudX.png" />
-<img src="https://i.imgur.com/UVCDudX.png" />
-<img src="https://i.imgur.com/UVCDudX.png" />
+<img src="https://i.imgur.com/9UHX0yv.png" />
+<img src="https://i.imgur.com/TvjuEF3.png" />
+<img src="https://i.imgur.com/MIr9UIn.png" />
+<img src="https://i.imgur.com/Efb8DKo.png" />
 <img src="https://i.imgur.com/UVCDudX.png" />
 <br />
 
