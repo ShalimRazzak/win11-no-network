@@ -34,11 +34,7 @@ or if you need to install Windows 11 on a machine that doesn't have an internet 
 		
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/wDELCwD.png"/>
-<img src="https://i.imgur.com/S1zAZN8.png"/>
 
-</p>
 <p>
 Step 1: Download and install VirtualBox
 	
@@ -48,25 +44,29 @@ Step 1: Download and install VirtualBox
 	
 - https://www.virtualbox.org/
 </p>
+<p>
+<img src="https://i.imgur.com/wDELCwD.png"/>
+<img src="https://i.imgur.com/S1zAZN8.png"/>
+
+</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/UVCDudX.png" />
-</p>
+
 <p>
 Step 2: Download the Windows 11 ISO file
 
 - https://www.microsoft.com/en-us/software-download/windows11
 
 </p>
+<p>
+<img src="https://i.imgur.com/UVCDudX.png" />
+</p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/tVzhLQc.png" height="80%" width="80%" />
 
-</p>
 <p>
 Step 3: Create a new virtual machine
+	
 		-Once VirtualBox is installed, open it up and click on the "New" button.
 	
 		-In the "Name" field, type a name for your virtual machine. 
@@ -95,14 +95,16 @@ Step 3: Create a new virtual machine
 	
 		-Choose a size that is at least the minimum size recommended which is 64GB.
 	
-		-Click on the "Create" button.
+		-Click on the "Finish" button.
 
 </p>
+<img src="https://i.imgur.com/bW0bN62.png" />
+<img src="https://i.imgur.com/FxdQ758.png" />
+<img src="https://i.imgur.com/fvbT3b7.png" />
+<img src="https://i.imgur.com/7gPS9C3.png" />
 <br />
 
-<p>
-<img src="https://i.imgur.com/NvK35hU.png" height="80%" width="80%" />
-</p>
+
 <p>
 Step 4: Start the installation of Windows 11
 	
@@ -121,6 +123,11 @@ Step 4: Start the installation of Windows 11
 		-Choose “New”. Then click “Next”.
 	
 </p>
+<img src="https://i.imgur.com/UVCDudX.png" />
+<img src="https://i.imgur.com/UVCDudX.png" />
+<img src="https://i.imgur.com/UVCDudX.png" />
+<img src="https://i.imgur.com/UVCDudX.png" />
+<img src="https://i.imgur.com/UVCDudX.png" />
 <br />
 
 <p>
