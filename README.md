@@ -174,7 +174,7 @@ Step 6: Finish the installation with VirtualBox Guest Additions ISO file
 <img src="https://i.imgur.com/q5PHFPb.png" />
 <img src="https://i.imgur.com/1DzaLJx.jpg" />
 
-<h1>That’s it!</h1>
+<h1>Fin!</h1>
 
 </p>
 <br />
